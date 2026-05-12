@@ -1,4 +1,4 @@
-# 
+# advanced NFT Floor Sweeper for nft trading bot | take-profit & auto-buy offers the most advanced nft trading bot, with take-profit and auto-buy. Ideal for professional NFT traders
 
 
 
